@@ -1,0 +1,12 @@
+#Sistema
+.DS_Store
+Thumbs.db
+
+#Arquivos Temporários
+*.tmp
+*.temp
+*.bak
+*.log
+
+#Materiais do curso
+materiais/
